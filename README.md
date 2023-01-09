@@ -11,4 +11,4 @@ Interpretation
 
 - Reminder 3
 
-Link to my profile: https://github.com/mirandalu2020
+[Link to my GitHub profile:] (https://github.com/mirandalu2020)
