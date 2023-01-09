@@ -12,7 +12,7 @@ Interpretation: Grwoth is developed with series of setbacks, failure is success 
 - Reminder 3: try harder, there's a world of people and google out there to help
 
 <p align="center">
-  <img width="460" height="400" src="https://github.com/mirandalu2020/reading-notes/blob/f5885b0d429ebef4fc3dd1e2156518ed24595802/Dark%20Blue%20Cyan%20Red%20Modern%20Tech%20General%20News%20YouTube%20Intro.gif" />
+  <img width="460" height="400" src="https://files.catbox.moe/j7shxm.gif" />
 </p>
 
 ## *About Me*
