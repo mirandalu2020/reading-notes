@@ -2,12 +2,9 @@
 
 ## Github Markdown
 
-Github makrdown is a simple way to get straight to the writing without barely any configiration. 
-
+Github makrdown is a simple way to get straight to the writing with minimal configiration, it's good for general documentation, blog writing, or simple website creation. In the past, I have created websites using Wix.com, but the free version was loaded with ads and watermarks, and my website was not rendered properly when I used a different display screen. I then moved on to WordPress, however in WordPress, I spent more than formatting blocks rather than writing, which defeated the purpose of my goal: quick notetaking. Although the learning curve increased from Wix, WordPress, to GitHub (and maybe some HTML when I want to be fancy), I had much more freedome and control over how I want my website to look and organized. 
 
 ## GitHub Pages
-
-
 
 
     Read for understanding the assigned resources for this class and watch any assigned videos.
