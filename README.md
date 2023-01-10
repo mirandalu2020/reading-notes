@@ -1,6 +1,8 @@
 # Reading-Notes
 My reading journal for CodeFellows
 
+- [*Class 1*](https://mirandalu2020.github.io/reading-notes/class1)
+
 ## *Growth Mindset*
 
 Interpretation: Grwoth is developed with series of setbacks, failure is success in progress
