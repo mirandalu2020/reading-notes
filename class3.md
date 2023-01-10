@@ -5,7 +5,7 @@
 **Vocab**
 
 1. repository - files Git should pay attention to
-2. 
+2. cloning - bringing GitHub project to my computer
 
 **How to choose a text editor**[^3]
 
