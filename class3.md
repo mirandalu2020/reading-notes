@@ -31,6 +31,8 @@ The workflow of Git is consisted of Working Directiry that adds to Index (for st
 
 ## Things I want to know more about
 
+How to change default text editor when I want to use an IDE?
+
  [Back to main page](https://mirandalu2020.github.io/reading-notes/)
 
 ## References
