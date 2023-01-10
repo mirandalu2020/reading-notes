@@ -23,11 +23,11 @@
 - if file staging is successful, git status will change the file name color from red to green; if commit successful, no green/red file should be seen
 - local repository does NOT sync with github, must be pushed from origin
 
-### **Git Intro (reading)**[^1]
+### **Git Intro (reading)** [^1]
 
 A version control system (VCS) is used to record changes, that can be local (stored on hard disk), centralized (stored (on a server that allows client access), and distributed (each client creates a mirroed repository). Git is used in this class as a VCS, that takes snapshots of each version, tracks changes, mitigate data loss risks, and allows local operations. To complete the steps, the ACP process must be completed.
 
-The workflow of Git is consisted of Working Directiry that adds to Index (for staging), which commits to Head, where most recent commit takes place. When a file can be modified or staged, it's called a *tracked* file, otherwise it's an *untracked* file. 
+The workflow of Git is consisted of Working Directiry that adds to Index (for staging), which commits to Head, where most recent commit takes place. When a file can be modified or staged, it's called a *tracked* file, otherwise it's an *untracked* file.
 
 ## Things I want to know more about
 
@@ -37,4 +37,4 @@ How to change default text editor when I want to use an IDE?
 
 ## References
 
-[^1]https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#1
+[^1]:https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#1
