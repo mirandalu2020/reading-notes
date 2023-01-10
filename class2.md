@@ -7,7 +7,7 @@
 1. WSL - Linux subsystem in Windows
 2. APT -  Advanced Package Tool to install applications
 3. Homebrew - Application that simplifies package installations (with GCC assistance)
-4. Git - to track history of file editing history, version control
+4. Git - to track history of file editing history, version control (GitHub = where it happens, Git+GitHub = Awesomne)
 5. Tree - directory helper
 6. Oh-My-Zsh - the environment (cheatsheet[^1], customization tool[^2])
 7. Node.js - JavaScript helper
