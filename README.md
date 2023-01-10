@@ -1,22 +1,23 @@
 # Reading-Notes
+
 My reading journal for CodeFellows
 
+## Table of Contents
+
+### 102
 - [*Class 1*](https://mirandalu2020.github.io/reading-notes/class1)
 - [*Class 2*](https://mirandalu2020.github.io/reading-notes/class2)
+- [*Class 3*](https://mirandalu2020.github.io/reading-notes/class3)
+- [*Class 4*](https://mirandalu2020.github.io/reading-notes/class4)
+- [*Class 5*](https://mirandalu2020.github.io/reading-notes/class5)
+- [*Class 6*](https://mirandalu2020.github.io/reading-notes/class6)
+- [*Class 7*](https://mirandalu2020.github.io/reading-notes/class7)
+- [*Class 8*](https://mirandalu2020.github.io/reading-notes/class8)
 
-## *Growth Mindset*
+### 201
 
-Interpretation: Grwoth is developed with series of setbacks, failure is success in progress
 
-- Reminder 1: steep leraning curve is expected, just think back to those days of quantum
-
-- Reminder 2: coding is a process of fixing all the messed-ups, but at least I get a chance to fix it
-
-- Reminder 3: try harder, there's a world of people and google out there to help
-
-<p align="center">
-  <img width="460" height="400" src="https://files.catbox.moe/j7shxm.gif" />
-</p>
+![Alt text](RunningMan.gif)
 
 ## *About Me*
 
