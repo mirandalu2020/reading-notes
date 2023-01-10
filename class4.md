@@ -36,6 +36,8 @@ Note that HTML should be responsible for content only, styling is covered by CSS
 
 ## Things I want to know more about
 
+How to integrate HTML and markdown seamlessly?
+
  [Back to main page](https://mirandalu2020.github.io/reading-notes/)
 
 ## References
