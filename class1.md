@@ -14,5 +14,9 @@ GitHub pages allowed me to organize my quick notes like webpages, which is very 
   
   How far can I go with GitHub pages? While it suffice as a documentation tool, can I go as far as making it an interactive blog that allows visitors to make comments directly on my website?
   
- ## Reference
+ [Back to main page](https://mirandalu2020.github.io/reading-notes/)
+ ## References
  [^1]: https://pages.github.com/
+ 
+ 
+
