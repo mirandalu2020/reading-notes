@@ -25,6 +25,14 @@ My reading journal for CodeFellows
 - [*Class 6*](https://mirandalu2020.github.io/reading-notes/class6-201)
 - [*Class 7*](https://mirandalu2020.github.io/reading-notes/class7-201)
 - [*Class 8*](https://mirandalu2020.github.io/reading-notes/class8-201)
+- [*Class 9*](https://mirandalu2020.github.io/reading-notes/class9-201)
+- [*Class 10*](https://mirandalu2020.github.io/reading-notes/class10-201)
+- [*Class 11*](https://mirandalu2020.github.io/reading-notes/class11-201)
+- [*Class 12*](https://mirandalu2020.github.io/reading-notes/class12-201)
+- [*Class 13*](https://mirandalu2020.github.io/reading-notes/class13-201)
+- [*Class 14*](https://mirandalu2020.github.io/reading-notes/class14-201)
+- [*Class 15*](https://mirandalu2020.github.io/reading-notes/class15-201)
+
 
 ![Alt text](RunningMan.gif)
 
