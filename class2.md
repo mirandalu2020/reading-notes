@@ -22,7 +22,7 @@ The main purpose of a text editor is simply text writing and managing, however, 
 
 It's worth pointing out that although Windows, Mac OS, and Linux all have their own built-in text editors, the functions are rather limited. So for a coder who requires more comprehensive functionalities, a 3rd party text editor is recommended. 
 
-** Text Editors vs IDEs**
+**Text Editors vs IDEs**
 
 A text editor only edits text, but an IDE is a software development package that has the capabilities beyond text editing, including managing, compling, and debugging. 
 
