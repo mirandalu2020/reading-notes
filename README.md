@@ -2,6 +2,7 @@
 My reading journal for CodeFellows
 
 - [*Class 1*](https://mirandalu2020.github.io/reading-notes/class1)
+- [*Class 2*](https://mirandalu2020.github.io/reading-notes/class2)
 
 ## *Growth Mindset*
 
