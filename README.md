@@ -33,6 +33,9 @@ My reading journal for CodeFellows
 - [*Class 14*](https://mirandalu2020.github.io/reading-notes/class14-201)
 - [*Class 15*](https://mirandalu2020.github.io/reading-notes/class15-201)
 
+### Just some thoughts
+
+- [*thoughts*](https://mirandalu2020.github.io/reading-notes/thoughts)
 
 ![Alt text](RunningMan.gif)
 
