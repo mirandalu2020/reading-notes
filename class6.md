@@ -12,7 +12,7 @@
 - can be programmed in a notepad or IDE, can be embedded or included in an HTML file
 - function 1: 'alert' to display texts
 - function 2: 'document.write()' to create a file with .html extension
-- function 3: console.log() to debug the code
+- function 3: console.log() to see what the code has returned (helpful to see what the code is doing without changing the displayed site)
 
 ### **Input with Prompt and Confirm**[^3]
 
@@ -30,6 +30,7 @@
 - note: "$", "_", can be used like a letter as a variable name (valid as the first character as well)
 
 ## Things I want to know more about
+
 How to incorporate CSS with JavaScript?
 
  [Back to main page](https://mirandalu2020.github.io/reading-notes/)
