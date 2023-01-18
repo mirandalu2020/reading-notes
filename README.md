@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-### 102
+## 102 - Intro to Software Development
 
 - [*Class 1*](https://mirandalu2020.github.io/reading-notes/class1)
 - [*Class 2*](https://mirandalu2020.github.io/reading-notes/class2)
@@ -13,7 +13,7 @@
 - [*Class 7*](https://mirandalu2020.github.io/reading-notes/class7)
 - [*Class 8*](https://mirandalu2020.github.io/reading-notes/class8)
 
-### 201
+## 201 - Foundations of Software Development
 
 - [*Class 1*](https://mirandalu2020.github.io/reading-notes/class1-201)
 - [*Class 2*](https://mirandalu2020.github.io/reading-notes/class2-201)
@@ -31,7 +31,11 @@
 - [*Class 14*](https://mirandalu2020.github.io/reading-notes/class14-201)
 - [*Class 15*](https://mirandalu2020.github.io/reading-notes/class15-201)
 
-### Just some thoughts
+## Code 301 - Intermediate Software Development
+
+## Code 401 - Advanced Software Development
+
+## Just some thoughts
 
 - [*thoughts*](https://mirandalu2020.github.io/reading-notes/thoughts)
 
