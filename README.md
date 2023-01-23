@@ -15,11 +15,11 @@
 
 ## 201 - Foundations of Software Development
 
-- [*Class 1*](https://mirandalu2020.github.io/reading-notes/class1-201)
-- [*Class 2*](https://mirandalu2020.github.io/reading-notes/class2-201)
-- [*Class 3*](https://mirandalu2020.github.io/reading-notes/class3-201)
-- [*Class 4*](https://mirandalu2020.github.io/reading-notes/class4-201)
-- [*Class 5*](https://mirandalu2020.github.io/reading-notes/class5-201)
+- [*Class 1*](https://mirandalu2020.github.io/reading-notes/class1_201)
+- [*Class 2*](https://mirandalu2020.github.io/reading-notes/class2_201)
+- [*Class 3*](https://mirandalu2020.github.io/reading-notes/class3_201)
+- [*Class 4*](https://mirandalu2020.github.io/reading-notes/class4_201)
+- [*Class 5*](https://mirandalu2020.github.io/reading-notes/class5_201)
 - [*Class 6*](https://mirandalu2020.github.io/reading-notes/class6-201)
 - [*Class 7*](https://mirandalu2020.github.io/reading-notes/class7-201)
 - [*Class 8*](https://mirandalu2020.github.io/reading-notes/class8-201)
