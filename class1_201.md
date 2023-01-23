@@ -50,4 +50,3 @@
 [^4]:https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML 
 [^5]: https://developer.mozilla.org/en-US/docs/Glossary/Semantics
 [^6]:https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript 
-
