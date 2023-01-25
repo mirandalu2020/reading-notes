@@ -2,6 +2,13 @@
 
 ## Intro Continued
 
+### **Lecture Notes**
+
+- *Date types:primatives:*
+- primativesthe building blocks of larger or more complex data types, structures
+- basic form of data
+- numbers, booleans, strings, null, undefined
+
 ### **Intro to HTML**[^1]
 
 - *HTML Text Fundamentals: headings and paragraphs*
