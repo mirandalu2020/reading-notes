@@ -2,6 +2,58 @@
 
 ## More about HTML, CSS, and JS
 
+### *Lecture Notes*
+
+- recall: how to use template literal: enclosed in `` and use ${this is a varaible}
+
+> `string ${this is a variable} more string characters`
+
+- **Arrays**
+- list of elements/items. Each element has an index start at [0] (the [0]is pronounced at index zero)
+
+- **For Loops**
+- The code will continue to execute as long as the condition is `true`
+- Steps:
+    1. initiate the variable (ex. a counter i, stands for iterator)
+    2. evaluate the variable (the condition `i < parkNRec.length`>)
+    3. increment the counter (i++, which is equivalent of i = i+1)
+
+> for (let i=0; i < parkNRec.length; i++>) {
+>    //code executes here
+>  }
+
+- update an array: arrayName[index] = "value" //attache the value if the index is not present, update the value if index does exist
+- method 2: arrayName[index].push("value 1", "value2", "value3") //value attached to the end of the array
+- arrayName.unshift('newValue'); //adds the elemet to the front of the array, shift all the other indecies
+
+- **CSS Box Model**
+- avoid extra math when setting box sizes
+
+>* {
+>    box-sizing:border-box;
+> }
+
+- almost all HTML elements default to display: black or displau online
+- take up the entire width of their parent. will know any sigbling elements to the next line.
+
+- **Inline**
+- only the width of their content and they flow wih the content around tham
+- `<span>`: no top/bottom margins, inline elements, flow with the content
+
+- **Block**
+- take up the entire space available (width of the parent element)
+- `<div>` for instance will take up the entire space available regardless of the width, unless specified to be changed to `display: inline-block`
+
+- **float**
+- can be cleared with `clear:both;`
+
+- **CSS selectors**
+- example: 
+
+> `div-hover` {
+>   color: green
+> }     /*color changed to green when hovered over the element selected
+
 ### HTML, ordered and unordered lists[^1]
 
 - an unordered list should be used when the list has no intrinsic ordering, and the order of the items do not matter; ordered list on the other hand, should be used when the listed items' order should not be changed, for instance: instructions for a procedure, rankings, etc. 
