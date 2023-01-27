@@ -1,5 +1,14 @@
 # Class Four Notes (401)
 
+## Lecture
+
+- Forking: copy to my GitHub, then clone
+
+- *CSS Positioning*: position in relation to other HTML elements vs. relative to the window vs. relative as the page is scrolled vs. stay put
+- position Relative (relative to the element's original position) vs. static
+- position Absolute: elements out of the flow of the page, in relation to its most recent ancestor with positioning applied (not static); if no ancestor has no positioning, then the absolute elemet will Display in relation to the browser window
+- position Fixed: does not move
+
 ## Layouts and Hyperlinks
 
 ### HTML Hyperlinks[^1]
