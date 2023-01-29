@@ -20,7 +20,7 @@
 - [*Class 3*](https://mirandalu2020.github.io/reading-notes/class3_201)
 - [*Class 4*](https://mirandalu2020.github.io/reading-notes/class4_201)
 - [*Class 5*](https://mirandalu2020.github.io/reading-notes/class5_201)
-- [*Class 6*](https://mirandalu2020.github.io/reading-notes/class6-201)
+- [*Class 6*](https://mirandalu2020.github.io/reading-notes/class6_201)
 - [*Class 7*](https://mirandalu2020.github.io/reading-notes/class7_201)
 - [*Class 8*](https://mirandalu2020.github.io/reading-notes/class8_201)
 - [*Class 9*](https://mirandalu2020.github.io/reading-notes/class9_201)
