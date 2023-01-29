@@ -1,5 +1,12 @@
 # Class Five Notes (201)
 
+## Lecture Notes
+
+- `.splice()`: change the value in the middle of an array, it takes in at least 2 arguments in the following order `.splice(item you wnt removed, number of total items to be removed)`, additional items can be attached after the first 2 items by name
+
+- `git branch` see what branch I am at
+- `git checkout -b <branch name>`: create and move to new branch
+
 ## Images, Color, Text
 
 ### HTML Media[^1] [^2]
