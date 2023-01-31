@@ -2,6 +2,26 @@
 
 ## Intro to Objects and the DOM
 
+### Lecture Notes
+
+- array can be a pain to keep track of when the data structure is large
+- use object instead `let objectName = {key1: value1, key2: value2}`
+- dot notation: `<objectName>.<keyName>` //quicker than bracket notation
+- bracket notation: `<objectName>[<keyName>]` //can be used with keyName that contains spaces
+- *Methods*: function objects that's assigned to an object, invoked with `.()` notation. Syntax: `objectName.functionName();`
+
+- adding data dynamically to an HTML document with JS (window to the DOM)
+- *step 1*: create an element (the order of the following steps can be swtiched)
+- `let profileContainer = document.getElementbyID('elementID') //create the element`
+- `let kittenArticle = document.createElement('article')) //create an <article> on JS`
+- *step 2*: give it content
+- `kittenArticle.textContent = "some text about the kitten"`
+- *step 3*: append to DOM
+- parent element in the DOM to append this new element to. Pass appendChild() the new element by its variable name
+- `profileContainer.appendChild(kittenArticle); //this appends the new article element to the parent`
+
+- `document.querySelector('article;nth-child(2) h3') //targeted h3 that's second child as an article element` any CSS selector can be included in the quotation marks
+
 ### JS Object Basics[^1]
 
 - An JS Object is a collection of members that can be accessed when needed
