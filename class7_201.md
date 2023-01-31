@@ -2,6 +2,35 @@
 
 ## More on Object-Oriented Programming, HTML Tables
 
+### Lecture Notes
+
+- constructor functions: using functions to create Objects
+
+> function ConstructorFunction(x) {
+>   this.x = value0;
+>   this.a = value1;
+>   this.b = value2;
+>   this.newFunction = function() {
+>    //code to be part of the function};  
+}
+> }
+
+> // we use the keyworkd `new` to create a new instance of the construtor function
+> let xxx1 = new ConstructorFunction();
+> let xxx2 = new ConstructorFunction();
+> //output would contain the keyworkd `ConstructorFunction`
+
+> //create new properties of the constructorFunction for one object
+> variable.newInstance = 'a string'
+
+> create new properties for all objects created, use keyworkd `prototype`
+> ConstructorFunction.prototype.newInstance = 'a string'
+
+
+> use a for-loop to invoke all student at once
+> let array = [array[0], array[1],array[2]]; //create instances of items to be iterated
+> for (let i=0; i < array.length, i++) {array[i].newFunction()};
+
 ### Domain Modeling[^1]
 
 - Domain modeling models a problem, such that there's a direction to find the solutions
@@ -29,4 +58,3 @@
 [^2]: https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics
 [^3]:https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics#introducing_constructors
 [^4]:https://ui.dev/beginners-guide-to-javascript-prototype 
-
