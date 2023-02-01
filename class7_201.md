@@ -12,7 +12,7 @@
 >   this.b = value2;
 >   this.newFunction = function() {
 >    //code to be part of the function};  
-}
+>         }
 > }
 
 > // we use the keyworkd `new` to create a new instance of the construtor function
@@ -31,6 +31,13 @@
 > let array = [array[0], array[1],array[2]]; //create instances of items to be iterated
 > for (let i=0; i < array.length, i++) {array[i].newFunction()};
 
+> more DOM stuff today: xxx.setAtrribute('HTML attribute", value)
+
+### Lecture Notes (tables on HTML)[^5]
+
+- `<thead>` and `<tbody>` and `<tfoot>` are used to create an HTML table, must follow the order of Head -- Data -- Foot, and they all must be children of `<tr>`, otherwise browser will re-organize it to such order
+- `<table>` -- `<thead>`, `<tbody>`, `<tfoot>` --`<tr>` -- `<th>`, `<td>`, `<tf>`
+
 ### Domain Modeling[^1]
 
 - Domain modeling models a problem, such that there's a direction to find the solutions
@@ -38,13 +45,15 @@
 ### HTML Table Basics[^2]
 
 - Tables should be used as they are very readable, and they are accessible to screen reader clients, so it's helpful for visually impaired users
-- Examples of `<table>` semantic tags include: `<th>` (table headers), `<td>` (table data), `<colspan>`, `<rowspam>`
+- Examples of `<table>` semantic tags include: `<th>` (table headers), `<td>` (table data), `<tr>` (table row), `<colspan>`, `<rowspam>`
 
 ### Intro to Constructors[^3] [^4]
 
 - A *Constructor* is a function called using the `new` key word, such that a new object will be creaetd
 - `this` can be used to bind to the constructor code and refer to itself
 - examples of a prototype: I used to have to make chemical models before running the experiment. More basic scientific experiment required me do prototype the reaction on paper, more advanced ones requires programming
+
+- more on DOM: let variable = `documen.querySelector(<any CSS selector>)`
 
 ## Things I want to know more about
 
@@ -57,4 +66,5 @@
 [^1]:https://github.com/codefellows/domain_modeling#domain-modeling
 [^2]: https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics
 [^3]:https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics#introducing_constructors
-[^4]:https://ui.dev/beginners-guide-to-javascript-prototype 
+[^4]:https://ui.dev/beginners-guide-to-javascript-prototype
+[^5]:https://www.w3schools.com/html/html_tables.asp
