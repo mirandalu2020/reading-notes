@@ -15,6 +15,7 @@
 
 ## 201 - Foundations of Software Development
 
+- [*pre-work*](https://mirandalu2020.github.io/reading-notes/es6-classes_301)
 - [*Class 1*](https://mirandalu2020.github.io/reading-notes/class1_201)
 - [*Class 2*](https://mirandalu2020.github.io/reading-notes/class2_201)
 - [*Class 3*](https://mirandalu2020.github.io/reading-notes/class3_201)
@@ -32,6 +33,22 @@
 - [*Class 15*](https://mirandalu2020.github.io/reading-notes/class15_201)
 
 ## Code 301 - Intermediate Software Development
+
+- [*Class 1*](https://mirandalu2020.github.io/reading-notes/class1_301)
+- [*Class 2*](https://mirandalu2020.github.io/reading-notes/class2_301)
+- [*Class 3*](https://mirandalu2020.github.io/reading-notes/class3_301)
+- [*Class 4*](https://mirandalu2020.github.io/reading-notes/class4_301)
+- [*Class 5*](https://mirandalu2020.github.io/reading-notes/class5_301)
+- [*Class 6*](https://mirandalu2020.github.io/reading-notes/class6_301)
+- [*Class 7*](https://mirandalu2020.github.io/reading-notes/class7_301)
+- [*Class 8*](https://mirandalu2020.github.io/reading-notes/class8_301)
+- [*Class 9*](https://mirandalu2020.github.io/reading-notes/class9_301)
+- [*Class 10*](https://mirandalu2020.github.io/reading-notes/class10_301)
+- [*Class 11*](https://mirandalu2020.github.io/reading-notes/class11_301)
+- [*Class 12*](https://mirandalu2020.github.io/reading-notes/class12_301)
+- [*Class 13*](https://mirandalu2020.github.io/reading-notes/class13_301)
+- [*Class 14*](https://mirandalu2020.github.io/reading-notes/class14_301)
+- [*Class 15*](https://mirandalu2020.github.io/reading-notes/class15_301)
 
 ## Code 401 - Advanced Software Development
 
