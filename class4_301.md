@@ -1,37 +1,29 @@
 # Class Four Notes (301)
 
-## Title
+## React and Forms
 
-### Thinking in React[^1]
+### React - Forms[^1]
 
-- The single responsibility principle: a component should only do one thing
-- Static version of an application is the UI without interactivity. Use props, not state, state is meant for interactivity only.
-- Once the static version is built, state can be introduced.
-- To determine if something is state: 
-  1. Is it passed in from a parent via props? If yes, then NOT state
-  2. Does it remained uchanged over time? If yes, then NOT state
-  3. Can you compute it based on other state or props? If yes, then NOT state
+- Controlled Component: An input form element whose value is controlled by React
+- The state is updated as soon as the user has an input, so the displayed value of state will be updated as the user types
+- The user's input can be updated by tageting the input value
 
-- To identify where state needs to live, identify the owner component or another component higher up in the hierachy, and that component should own the state. If neither makes sense to own the state, create a new component solely for holding the state.
+### The conditional (Ternary) Operator Explained[^2]
 
-### Higher Order Function[^2]
+- A ternary operator shortens a conditional statement
 
-- Higher order function: functions that operate on other functions
-
->function greaterThan(n) {
-> return m => m > n;
+>if(x===y){
+>  console.log(true);
+>} else {
+>  console.log(false);
 >}
->let greaterThan10 = greaterThan(10);
->console.log(greaterThan10(11));
->// → true
 
-- Line 2 of the function given returns the value of m if m is greater than the value of n
-- map() is a transofmration function that operates on the iterable of the original array, then output the new array with the values post-operation
-- reduce() reduces a single from from an array, by repeatedly taking a single element from the array and combining it with the current value
+- the above code can be re-written as: 
+`x===y ? console.log(true) : console.log(false)`
 
  [Back to main page](https://mirandalu2020.github.io/reading-notes/)
 
 ## References
 
-[^1]:https://reactjs.org/docs/thinking-in-react.html
-[^2]:https://reactjs.org/docs/thinking-in-react.html
+[^1]:https://reactjs.org/docs/forms.html
+[^2]
