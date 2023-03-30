@@ -15,7 +15,7 @@
 
 ## 201 - Foundations of Software Development
 
-- [*pre-work*](https://mirandalu2020.github.io/reading-notes/es6-classes_301)
+
 - [*Class 1*](https://mirandalu2020.github.io/reading-notes/class1_201)
 - [*Class 2*](https://mirandalu2020.github.io/reading-notes/class2_201)
 - [*Class 3*](https://mirandalu2020.github.io/reading-notes/class3_201)
@@ -34,6 +34,7 @@
 
 ## Code 301 - Intermediate Software Development
 
+- [*pre-work*](https://mirandalu2020.github.io/reading-notes/es6-classes_301)
 - [*Class 1*](https://mirandalu2020.github.io/reading-notes/class1_301)
 - [*Class 2*](https://mirandalu2020.github.io/reading-notes/class2_301)
 - [*Class 3*](https://mirandalu2020.github.io/reading-notes/class3_301)
@@ -51,6 +52,8 @@
 - [*Class 15*](https://mirandalu2020.github.io/reading-notes/class15_301)
 
 ## Code 401 - Advanced Software Development
+
+- [*pre-work*](https://mirandalu2020.github.io/reading-notes/sql_401)
 
 ## Just some thoughts
 
