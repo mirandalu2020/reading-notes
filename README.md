@@ -54,6 +54,8 @@
 ## Code 401 - Advanced Software Development
 
 - [*pre-work*](https://mirandalu2020.github.io/reading-notes/sql_401)
+- [*pre-work*](https://mirandalu2020.github.io/reading-notes/growth)
+- [*pre-work*](https://mirandalu2020.github.io/reading-notes/terminal)
 
 ## Just some thoughts
 
