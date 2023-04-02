@@ -57,10 +57,6 @@
 - [*pre-work*](https://mirandalu2020.github.io/reading-notes/growth)
 - [*pre-work*](https://mirandalu2020.github.io/reading-notes/terminal)
 
-## Just some thoughts
-
-- [*thoughts*](https://mirandalu2020.github.io/reading-notes/thoughts)
-
 ## *About the site*
 
 My reading journal for CodeFell ows, as well as lecture notes and cheatsheets. A brief diary of my progress and setbacks under [*thoughts*](https://mirandalu2020.github.io/reading-notes/thoughts).
