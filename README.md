@@ -56,6 +56,7 @@
 - [*pre-work*](https://mirandalu2020.github.io/reading-notes/sql_401)
 - [*pre-work*](https://mirandalu2020.github.io/reading-notes/growth)
 - [*pre-work*](https://mirandalu2020.github.io/reading-notes/terminal)
+- [*Class 1*](https://mirandalu2020.github.io/reading-notes/class1_401)
 
 ## *About the site*
 
