@@ -57,7 +57,12 @@
 - [*pre-work*](https://mirandalu2020.github.io/reading-notes/growth)
 - [*pre-work*](https://mirandalu2020.github.io/reading-notes/terminal)
 - [*Class 1*](https://mirandalu2020.github.io/reading-notes/class1_401)
-- [*Class 1*](https://mirandalu2020.github.io/reading-notes/class2_401)
+- [*Class 2*](https://mirandalu2020.github.io/reading-notes/class2_401)
+- [*Class 3*](https://mirandalu2020.github.io/reading-notes/class3_401)
+- [*Class 4*](https://mirandalu2020.github.io/reading-notes/class4_401)
+- [*Class 5*](https://mirandalu2020.github.io/reading-notes/class5_401)
+- [*Class 6*](https://mirandalu2020.github.io/reading-notes/class6_401)
+- [*Class 7*](https://mirandalu2020.github.io/reading-notes/class7_401)
 
 ## *About the site*
 
