@@ -15,7 +15,6 @@
 
 ## 201 - Foundations of Software Development
 
-
 - [*Class 1*](https://mirandalu2020.github.io/reading-notes/class1_201)
 - [*Class 2*](https://mirandalu2020.github.io/reading-notes/class2_201)
 - [*Class 3*](https://mirandalu2020.github.io/reading-notes/class3_201)
