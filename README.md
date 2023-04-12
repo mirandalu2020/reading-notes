@@ -62,6 +62,13 @@
 - [*Class 5*](https://mirandalu2020.github.io/reading-notes/class5_401)
 - [*Class 6*](https://mirandalu2020.github.io/reading-notes/class6_401)
 - [*Class 7*](https://mirandalu2020.github.io/reading-notes/class7_401)
+- [*Class 8*](https://mirandalu2020.github.io/reading-notes/class8_401)
+- [*Class 9*](https://mirandalu2020.github.io/reading-notes/class9_401)
+- [*Class 10*](https://mirandalu2020.github.io/reading-notes/class10_401)
+- [*Class 11*](https://mirandalu2020.github.io/reading-notes/class11_401)
+- [*Class 12*](https://mirandalu2020.github.io/reading-notes/class12_401)
+- [*Class 13*](https://mirandalu2020.github.io/reading-notes/class13_401)
+- [*Class 14*](https://mirandalu2020.github.io/reading-notes/class14_401)
 
 ## *About the site*
 
