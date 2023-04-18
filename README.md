@@ -72,7 +72,7 @@
 
 ## *About the site*
 
-My reading journal for CodeFell ows, as well as lecture notes and cheatsheets. A brief diary of my progress and setbacks under [*thoughts*](https://mirandalu2020.github.io/reading-notes/thoughts).
+My reading journal for CodeFellows, as well as lecture notes and cheatsheets. A brief diary of my progress and setbacks under [*thoughts*](https://mirandalu2020.github.io/reading-notes/thoughts).
 
 ![Alt text](RunningMan.gif)
 
