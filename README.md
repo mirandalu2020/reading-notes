@@ -52,6 +52,8 @@
 
 ## Code 401 - Advanced Software Development
 
+### backend
+
 - [*pre-work*](https://mirandalu2020.github.io/reading-notes/sql_401)
 - [*pre-work*](https://mirandalu2020.github.io/reading-notes/growth)
 - [*pre-work*](https://mirandalu2020.github.io/reading-notes/terminal)
@@ -74,6 +76,18 @@
 - [*Class 17*](https://mirandalu2020.github.io/reading-notes/class17_401)
 - [*Class 18*](https://mirandalu2020.github.io/reading-notes/class18_401)
 - [*Class 19*](https://mirandalu2020.github.io/reading-notes/class19_401)
+
+### frontend
+
+- [*Class 21*](https://mirandalu2020.github.io/reading-notes/class21_401)
+- [*Class 22*](https://mirandalu2020.github.io/reading-notes/class22_401)
+- [*Class 23*](https://mirandalu2020.github.io/reading-notes/class23_401)
+- [*Class 24*](https://mirandalu2020.github.io/reading-notes/class24_401)
+- [*Class 25*](https://mirandalu2020.github.io/reading-notes/class25_401)
+- [*Class 26*](https://mirandalu2020.github.io/reading-notes/class26_401)
+- [*Class 27*](https://mirandalu2020.github.io/reading-notes/class27_401)
+- [*Class 28*](https://mirandalu2020.github.io/reading-notes/class28_401)
+- [*Class 29*](https://mirandalu2020.github.io/reading-notes/class29_401)
 
 ## *About the site*
 
