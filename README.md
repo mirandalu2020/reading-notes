@@ -82,12 +82,11 @@
 - [*Class 21*](https://mirandalu2020.github.io/reading-notes/class21_401)
 - [*Class 22*](https://mirandalu2020.github.io/reading-notes/class22_401)
 - [*Class 23*](https://mirandalu2020.github.io/reading-notes/class23_401)
-- [*Class 24*](https://mirandalu2020.github.io/reading-notes/class29_401)
-- [*Class 29*](https://mirandalu2020.github.io/reading-notes/class30_401)
-- [*Class 30*](https://mirandalu2020.github.io/reading-notes/class31_401)
-- [*Class 31*](https://mirandalu2020.github.io/reading-notes/class32_401)
-- [*Class 32*](https://mirandalu2020.github.io/reading-notes/class33_401)
-- [*Class 33*](https://mirandalu2020.github.io/reading-notes/class34_401)
+- [*Class 29*](https://mirandalu2020.github.io/reading-notes/class29_401)
+- [*Class 30*](https://mirandalu2020.github.io/reading-notes/class30_401)
+- [*Class 31*](https://mirandalu2020.github.io/reading-notes/class31_401)
+- [*Class 32*](https://mirandalu2020.github.io/reading-notes/class32_401)
+- [*Class 33*](https://mirandalu2020.github.io/reading-notes/class33_401)
 
 ## *About the site*
 
